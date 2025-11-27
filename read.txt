@@ -360,3 +360,8 @@ PS C:\Users\Admin\Desktop\d1\Demo> git add .
 PS C:\Users\Admin\Desktop\d1\Demo> git push
 Everything up-to-date
 PS C:\Users\Admin\Desktop\d1\Demo> 
+
+
+git tag <name>
+git tag
+git -d tag <name>
